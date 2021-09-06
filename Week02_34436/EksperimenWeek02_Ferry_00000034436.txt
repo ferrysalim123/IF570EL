@@ -1,0 +1,20 @@
+2.a. Error , terjadi karena operand1 dan operand2 tidak memiliki input sehingga operand1 
+dan operand 2 tidak bisa di hitung dan aplikasi mengalami error
+solusi : mengecek terlebih dahulu bila angka 1 dan angka 2 tidak kosong 
+Contoh: if(angka1.getText().toString().isEmpty() || angka2.getText().toString().isEmpty()){
+            hasil.setText(isinull);
+
+2.b. Error, terjadi karena operand2 tidak memiliki input sehingga operand1 tidak bisa 
+dioperasikan dengan operand2 dan aplikasi mengalami error
+solusi : mengecek terlebih dahulu bila angka 2 tidak kosong
+Contoh: if(angka2.getText().toString().isEmpty()){
+            hasil.setText(isinull);
+
+2.c. Tidak Error tetapi menghasilkan hasil infinity
+
+3.Dengan step over, debugger menjalankan baris kemudian pergi kebaris berikutnya
+Dengan step into, debugger menjalankan akan masuk ke method
+Dengan step out, jika kita sudah melakukan step into maka step out akan mengembalikan 
+posisi sebelum melakukan step into
+Dengan resume maka debugger akan melanjutkan program seperti biasa
+
