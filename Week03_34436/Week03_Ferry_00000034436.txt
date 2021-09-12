@@ -1,0 +1,4 @@
+Hasil pengujian app menunjukan bila ada kata yang ditekan maka akan
+mengeluarkan tulisan "pernah diklik" dan jika tombol tambah ditekan 
+maka akan mengeluarkan "kata _ _ telah ditambahkan" dan jika di klik maka
+akan mengeluarkan "kata _ _ telah ditambahkan pernah diklik"
