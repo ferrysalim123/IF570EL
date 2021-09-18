@@ -1,0 +1,8 @@
+Intent merupakan cara pada android untuk berpindah pada halaman activity/fragment. 
+Intent menghubungkan interaksi antar Activity di aplikasi Android. Intent juga 
+dapat membawa dan mengirimkan data ke Activity lain, bahkan ke aplikasi lain
+
+
+Fragement adalah perilaku atau bagian dari antarmuka pengguna dalam activity dan bisa
+dipakai berulang ulang dalam satu activity sehingga kita dapat menggunakan bermacam fragment
+untuk membuat suatu antarmuka UI multipanel
