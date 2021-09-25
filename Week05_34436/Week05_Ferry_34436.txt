@@ -1,0 +1,6 @@
+Pada Percobaan yang dilakukan yaitu membuat suatu aplikasi untuk
+menggambar dengan menggunakan tools seperti garis,lingkaran, kotak 
+dan free draw. Kita juga bisa membuat warna pada garis tersebut dengan 
+memilihnya di bawah tools tersebut dan warna yang dipilih akan tampil di 
+kotak kanan. Jika setelah menggambar dan ingin menghapus maka klik tombol
+x di kiri atas dan kanvas pun akan terhapus.
