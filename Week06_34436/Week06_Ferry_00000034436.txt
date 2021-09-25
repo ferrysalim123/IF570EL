@@ -1,0 +1,14 @@
+Pada percobaan yang dilakukan ada 3
+A. Pada percobaan ini, hasil yang terjadi adalah
+ketika menekan screen layar maka akan muncul lingkaran 
+berwarna hijau yang akan semakin membesar kemudian ketika sudah
+maksimal maka akan mengecil kembali 
+
+B. Pada percobaan kedua, hasil yang terjadi adalah 
+muncul gambar kuda yang akan terus berlari seperti GIF
+karna telah di set untuk berubah atau looping 
+
+C. Pada percobaan ketiga, hasil yang terjadi adalah
+tombol spring jika ditekan maka tombol itu akan terpental kebawah kemudian
+naik kembali ke atas ke posisi semula dan tombol fling jika ditekan maka akan
+melakukan rotasi dan berputar 1x
