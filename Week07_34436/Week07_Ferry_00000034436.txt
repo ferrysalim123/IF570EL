@@ -1,0 +1,9 @@
+Tutorial kamera 
+Pengujian pada tombol foto dan video telah berhasil.
+app dapat membuka aplikasi foto dan menangkap foto, serta
+kamera dapat memvideokan sebuah video.
+
+Tutorial galeri video
+App telah berfungsi dengan baik. ketika membuka, ditampilkan beberapa
+video yang ada beserta penjelasannya, ketika video diklik maka
+akan beralih ke detil video , ketika klik back maka akan kembali ke recycler view.
